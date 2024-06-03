@@ -1,5 +1,5 @@
 ## Counter 
-• practicing useState and props ✅
+• Practicing useState and props ✅
 
 ## Screenshots 📱
 <img src="src/images/counter.jpg" width="350">
